@@ -12,6 +12,7 @@
 - 🎓 2nd-year **Computer Science Engineering student**
 - 💻 Focused on **Frontend & Fullstack Development**
 - 🧠 Strengthening **Data Structures & Algorithms**
+-  🎨 Learning **UI/UX design** using **Figma**
 - 🎨 Passionate about **UI/UX Design** and user-centered interfaces
 - 🔭 Building real-world projects & contributing to **Open Source**
 - 📫 Reach me at: **ansarialfisha2006@gmail.com**
