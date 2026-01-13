@@ -1,67 +1,108 @@
 <h1 align="center">Hi 👋, I'm Alfisha</h1>
-<h3 align="center">A passionate Frontend Developer | UI/UX Enthusiast | DSA Explorer</h3>
+<h3 align="center">Frontend Developer | UI/UX Designer | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=2nd+Year+CS+Student;Frontend+%F0%9F%92%BB+%7C+Fullstack+%F0%9F%9A%80;Learning+DSA+%E2%9C%8C%EF%B8%8F+%7C+UI%2FUX+%F0%9F%96%8C%EF%B8%8F+Design;Open+Source+Lover+%F0%9F%92%9A&center=true&width=500&height=30" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=2nd+Year+CS+Student;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%96%8C%EF%B8%8F;Java+%7C+Python+%7C+DSA;Open+Source+Enthusiast+%F0%9F%92%9A&center=true&width=500&height=35" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 I'm a **2nd-year Computer Science student**
-- 💻 Currently strengthening my skills in **Frontend** and **Fullstack Development**
-- 📚 Exploring **Data Structures & Algorithms** to level up my problem-solving
-- 🎨 Learning **UI/UX design** using **Figma**
-- 🔭 Building mini projects to sharpen my skills and contribute to Open Source
-- 📫 How to reach me: [ansarialfisha2006@gmail.com | [LinkedIn]https://www.linkedin.com/in/alfisha-ansari-5a4608358
+- 🎓 2nd-year **Computer Science Engineering student**
+- 💻 Focused on **Frontend & Fullstack Development**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🎨 Passionate about **UI/UX Design** and user-centered interfaces
+- 🔭 Building real-world projects & contributing to **Open Source**
+- 📫 Reach me at: **ansarialfisha2006@gmail.com**
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-#### 🚀 Languages & Tools
+### 🚀 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 🎨 UI / UX Skills
+- User Research & Persona Creation  
+- Wireframing & Prototyping  
+- Visual Hierarchy & Layout Design  
+- Color Theory & Typography  
+- Design Systems & Components  
+- Responsive & Accessible Design  
+- UX Heuristics & Usability Testing  
+- Mobile-First Design Approach  
+
+---
+
+### 🖌️ UI / UX Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### 🧠 Core CS Fundamentals
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Problem Solving & Logical Thinking  
+- Basic DBMS & OS Concepts  
+
+---
+
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfisha-28&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfisha-28&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisha-28&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 ---
 
-### ✍️ Latest Projects
+## ✍️ Projects
 
-- 🧮 [Quickdesk] – Ticket Generator Website
-- 🎨 [Recipe-Finder] – Currrently Working on my Fullstack project to find Food recipes.
-- 📦 [DSA-Python] – Exploring DSA.
-
----
-
-### 📌 Fun Facts
-
-- 🧠 I believe in "Build while you learn"
-- 🧩 I love breaking down big problems into modular components
-- 🌱 Always curious about new tools and frameworks
+- 🧮 **QuickDesk** – Ticket Generator Web Application  
+- 🍲 **Recipe Finder** – Fullstack food recipe platform *(In Progress)*  
+- 📦 **DSA-Python** – Data Structures & Algorithms practice repository  
 
 ---
 
-### 📎 Let's Connect
+## 📌 Fun Facts
+
+- 🧠 I believe in **“Build while you learn”**
+- 🧩 I enjoy breaking complex problems into clean, modular solutions
+- 🌱 Constantly exploring better tools, patterns, and design practices
+
+---
+
+## 📎 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alfisha-ansari-5a4608358/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ansarialfisha2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alfisha-ansari-5a4608358/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ansarialfisha2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
