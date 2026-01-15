@@ -22,11 +22,13 @@
 ## 🧰 Tech Stack
 
 ### 🚀 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
@@ -70,13 +72,24 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfisha-28&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfisha-28&theme=tokyonight&hide_border=true" width="47%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alfisha-28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="48%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=alfisha-28&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisha-28&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisha-28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="48%" 
+  />
 </p>
 
 ---
