@@ -12,8 +12,7 @@
 - 🎓 2nd-year **Computer Science Engineering student**
 - 💻 Focused on **Frontend & Fullstack Development**
 - 🧠 Strengthening **Data Structures & Algorithms**
--  🎨 Learning **UI/UX design** using **Figma**
-- 🎨 Passionate about **UI/UX Design** and user-centered interfaces
+- 🎨 Practicing UI/UX design using Figma with a strong focus on user-centered interfaces
 - 🔭 Building real-world projects & contributing to **Open Source**
 - 📫 Reach me at: **ansarialfisha2006@gmail.com**
 
@@ -70,25 +69,21 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alfisha-28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="48%" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=alfisha-28&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-</p>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfisha-28&theme=tokyonight" 
+  width="100%"
+/>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisha-28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="48%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfisha-28&theme=tokyonight" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfisha-28&theme=tokyonight" 
+    width="45%" 
   />
 </p>
 
