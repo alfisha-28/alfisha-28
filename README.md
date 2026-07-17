@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd-year **Computer Science Engineering student**
+- 🎓 3rd-year **Computer Science Engineering student**
 - 💻 Focused on **Frontend & Fullstack Development**
 - 🧠 Strengthening **Data Structures & Algorithms**
 - 🎨 Practicing UI/UX design using Figma with a strong focus on user-centered interfaces
