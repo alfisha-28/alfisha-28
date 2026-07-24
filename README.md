@@ -1,10 +1,10 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Alfisha%20Ansari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Product%20Designer%20|%20AI%20Builder&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Alfisha%20Ansari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20UI/UX%20Designer%20|%20AI%20Builder&descAlignY=58"/>
 
 # Hi 👋 I'm Alfisha Ansari
 
-### 🎨 Product Designer • 💻 Software Engineering Student • 🚀 AI Builder
+### 🎨 UI/UX Designer • 💻 Software Engineering Student • 🚀 AI Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Product+Designer+%F0%9F%8E%A8;Full+Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Learning+Data+Structures+%26+Algorithms;Building+AI+Powered+Applications;Always+Learning+Something+New+%F0%9F%8C%B1"/>
 
