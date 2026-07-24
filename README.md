@@ -1,33 +1,36 @@
-```md
-<h1 align="center">Hi 👋, I'm Alfisha Ansari</h1>
+# <div align="center">
 
-<h3 align="center">
-🎨 Product Designer • 💻 Software Engineering Student • 🚀 Building AI-Powered Web Applications
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Alfisha%20Ansari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Product%20Designer%20|%20AI%20Builder&descAlignY=58"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Product+Designer+%F0%9F%8E%A8;Full+Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+React+%7C+Node.js;Learning+Data+Structures+%26+Algorithms;Building+AI+Powered+Applications+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%8C%B1" />
-</p>
+# Hi 👋 I'm Alfisha Ansari
 
-<p align="center">
+### 🎨 Product Designer • 💻 Software Engineering Student • 🚀 AI Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Product+Designer+%F0%9F%8E%A8;Full+Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Learning+Data+Structures+%26+Algorithms;Building+AI+Powered+Applications;Always+Learning+Something+New+%F0%9F%8C%B1"/>
+
+<br>
+
+<a href="https://www.alfisha.in">
+<img src="https://img.shields.io/badge/🌐_Portfolio-www.alfisha.in-000000?style=for-the-badge"/>
+</a>
 
 <a href="mailto:ansarialfisha2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alfisha-ansari-5a4608358/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/alfisha-28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=alfisha-28&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+
+</div>
 
 ---
 
@@ -35,108 +38,98 @@
 
 🎓 Third-Year Computer Science Engineering Student
 
-💻 Passionate about Software Engineering and Full Stack Development
+🎨 Passionate about **Product Design, UI/UX and User-Centered Design**
 
-🎨 UI/UX Designer focused on creating user-friendly digital experiences
+💻 Building modern **Full Stack Web Applications**
 
-🚀 Building AI-powered web applications and real-world software
+🚀 Exploring **Artificial Intelligence** and real-world software products
 
-🧠 Currently mastering Data Structures & Algorithms in Java
+🧠 Currently mastering **Data Structures & Algorithms**
 
-📚 Learning System Design, Backend Development, and Modern Web Technologies
+📚 Learning **System Design, Backend Development & Modern Web Technologies**
 
-🌱 Believer in **"Learn → Build → Improve → Repeat."**
+🌐 Portfolio: **https://www.alfisha.in**
+
+📫 Email: **[ansarialfisha2006@gmail.com](mailto:ansarialfisha2006@gmail.com)**
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Programming Languages
+## 💻 Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,c"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,c&perline=8"/>
 </p>
-
----
 
 ## 🌐 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8"/>
 </p>
-
----
 
 ## ⚙️ Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=8"/>
 </p>
-
----
 
 ## 🗄️ Database
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8"/>
 </p>
-
----
 
 ## 🎨 Design
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma"/>
-
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
 </p>
 
----
+## 🛠 Tools
 
-## 🛠 Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vercel&perline=8"/>
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- 📚 Data Structures & Algorithms
-- ⚡ Next.js
-- 🗄 PostgreSQL
-- 🏗 System Design Fundamentals
-- 🤖 AI Integration in Web Applications
-- 🎨 Advanced Product Design
-- 🚀 Software Engineering Best Practices
+* 📚 Data Structures & Algorithms
+* ⚡ Next.js
+* 🗄 PostgreSQL
+* 🚀 Backend Development
+* 🏗 System Design Fundamentals
+* 🤖 AI Integration
+* 🎨 Product Design
+* 💡 Software Engineering Best Practices
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 🛠 Tech Stack | 📖 Description |
-|------------|--------------|----------------|
-| 🤖 AI Resume Portfolio Builder | Next.js • Tailwind CSS • PostgreSQL • AI | AI-powered Resume & Portfolio Builder |
-| 💼 Internship Management System | React • Node.js • Express • PostgreSQL | Complete Internship Management Platform |
-| 🥐 Bakery Website | React • CSS | Responsive Modern Bakery Landing Page |
-| 🎫 QuickDesk | React • JavaScript | Smart Ticket Generator Web Application |
-| 🍽 Recipe Finder | React • Node.js • MySQL | Recipe Search & Management Platform |
-| 🎨 UI/UX Case Studies | Figma | Product Design Portfolio & Case Studies |
-| 📚 DSA Repository | Java | Daily DSA Questions & Solutions |
-| 🌐 Personal Portfolio | Next.js | Personal Developer & Designer Portfolio |
+| 🚀 Project                      | 💻 Tech Stack                            | 📖 Description                           |
+| ------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| 🤖 AI Resume Portfolio Builder  | Next.js • Tailwind CSS • PostgreSQL • AI | AI-powered Resume & Portfolio Builder    |
+| 💼 Internship Management System | React • Node.js • Express • PostgreSQL   | Complete Internship Management Platform  |
+| 🥐 Bakery Website               | React • CSS                              | Responsive Bakery Website with Modern UI |
+| 🍽️ Recipe Finder               | React • Node.js • MySQL                  | Recipe Search & Management Platform      |
+| 🎫 QuickDesk                    | React • JavaScript                       | Smart Ticket Generator Application       |
+| 🌐 Personal Portfolio           | Next.js                                  | Professional Portfolio Website           |
+| 📚 DSA Repository               | Java                                     | Daily DSA Questions & Solutions          |
+| 🎨 UI/UX Case Studies           | Figma                                    | Product Design Process & Case Studies    |
+
+---
+
+# 🏆 Achievements
+
+* 🎨 UI/UX Design Intern
+* 🚀 Hackathon Participant
+* 🏅 Design Competition Participant
+* 💻 Building Real-World Projects
+* 📚 Continuous Learner
 
 ---
 
@@ -144,41 +137,41 @@
 
 <p align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfisha-28&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alfisha-28&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisha-28&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alfisha-28&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=alfisha-28&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=alfisha-28&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisha-28&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfisha-28&theme=github_dark&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfisha-28&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfisha-28&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfisha-28&theme=tokyonight"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfisha-28&theme=github_dark"/>
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfisha-28&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alfisha-28&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alfisha-28&theme=tokyonight&row=2&column=4&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alfisha-28&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -188,7 +181,7 @@
 
 <p align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alfisha-28&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfisha-28&theme=tokyo-night"/>
 
 </p>
 
@@ -196,60 +189,46 @@
 
 # 🎯 2026 Goals
 
-- ✅ Master Data Structures & Algorithms
-- ✅ Build Production-Ready Full Stack Applications
-- ✅ Learn Advanced Backend Development
-- ✅ Build AI-Powered Products
-- ✅ Create Professional UI/UX Case Studies
-- ✅ Contribute to Open Source
-- ✅ Secure an Internship / Placement at a Top Tech Company
+* ✅ Master Data Structures & Algorithms
+* ✅ Build Production-Ready Full Stack Applications
+* ✅ Create AI-Powered Products
+* ✅ Strengthen Software Engineering Fundamentals
+* ✅ Build Professional UI/UX Case Studies
+* ✅ Contribute to Open Source
+* ✅ Secure a Software Engineering Internship
 
 ---
 
-# 🏅 Achievements
-
-- 🎨 UI/UX Design Intern
-- 🏆 Design Competition Participant
-- 🚀 Hackathon Participant
-- 📚 Consistently Building Real-World Projects
-- 🌱 Lifelong Learner
-
----
-
-# 📬 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
+<a href="https://www.alfisha.in">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="mailto:ansarialfisha2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alfisha-ansari-5a4608358/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/alfisha-28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<!-- Add Portfolio -->
-<!--
-<a href="https://alfisha.in">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
--->
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💭 Quote
+> ### *"Great products are built by combining empathy, creativity, and engineering."*
 
-*"Great products are built by combining empathy, creativity, and engineering."*
+### ⭐ Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile! Have a wonderful day.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
 
-</p>
-```
+</div>
