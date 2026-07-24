@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alfisha Ansari
 
-### Software Engineering Student • Product Designer • Full Stack Developer
+### Software Engineering Student • UI/UX Designer • Full Stack Developer
 
 I'm a **3rd-year Computer Science Engineering student** passionate about building modern web applications and designing intuitive digital experiences. I enjoy combining **software engineering**, **UI/UX design**, and **AI** to create products that solve real-world problems.
 
