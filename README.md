@@ -62,6 +62,7 @@ I'm a **3rd-year Computer Science Engineering student** passionate about buildin
 
 | Project                         | Description                              |
 | ------------------------------- | ---------------------------------------- |
+|🧑‍💼FlowSync                      |Enterprise Asset & Resource Management System|
 | 🤖 AI Resume Portfolio Builder  | AI-powered resume and portfolio builder  |
 | 💼 Internship Management System | Complete internship management platform  |
 | 🥐 Bakery Website               | Responsive bakery website with modern UI |
