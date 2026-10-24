@@ -152,3 +152,11 @@ I'm a Computer Science Engineering student passionate about building modern web 
 <p align="center">
   <i>"Building meaningful products through creativity, design, and engineering."</i>
 </p>
+
+<p align="center">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    alt="GitHub logo"
+    width="100"
+  />
+</p>
